@@ -1,0 +1,5 @@
+/* carousel.css */
+.carousel-slides > div {
+    transition: transform 0.7s ease-in-out, scale 0.7s ease-in-out;
+  }
+  
